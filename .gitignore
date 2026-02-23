@@ -1,0 +1,5 @@
+config.json
+resumes/
+job.txt
+__pycache__/
+*.pyc
